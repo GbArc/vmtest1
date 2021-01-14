@@ -1,0 +1,6 @@
+language: bash
+os: windows
+vm:
+  size: x-large
+script:
+  - 'echo ok'
