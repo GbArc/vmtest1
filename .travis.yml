@@ -1,5 +1,5 @@
 language: bash
-os: windows
+os: osx
 vm:
   size: x-large
 script:
